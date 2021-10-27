@@ -1,4 +1,4 @@
-# HMMs for Part-of- Speech (POS) Tagging
+# HMMs for Part-of-Speech (POS) Tagging
 
 Assignment for the course 'Foundations of Natural Language Processing'.
 Implemented in Python, using the Natural Language Tool Kit (NLTK).
