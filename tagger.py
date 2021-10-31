@@ -1,7 +1,7 @@
 import inspect, sys, hashlib
 import itertools, math
 
-# Hack around a warning message deep inside scikit learn, loaded by nltk :-(
+# Hack around a warning message deep inside scikit learn, loaded by nltk
 #  Modelled on https://stackoverflow.com/a/25067818
 import warnings
 with warnings.catch_warnings(record=True) as w:
